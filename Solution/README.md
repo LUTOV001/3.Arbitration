@@ -46,7 +46,7 @@ The repository consists of the following folders, subfolders and contents as des
 #### 1.From Jupyter Lab terminal, navigate to the Solutions folder and open the crypto_arbitrage.ipynb notebook
 #### 2.Reset the Kernel and
 #### 3.Run the steps in sequence
-###### *Note* For the VP analysis, sections 1.Collect and 2. Prepare Data can be skipped 
+###### *Note* For the VP analysis, sections 1.Collect and 2. Prepare Data can be run in advance and skipped during the presentation
 ```
 
 ### Credits
